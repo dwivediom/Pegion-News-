@@ -3,7 +3,7 @@
 if site is not wroking this means the api subscirption is expired 
 [click here to check website ]( https://dwivediom.github.io/Pegion-News-/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
