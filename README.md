@@ -2,9 +2,10 @@
 
 sorry this site is not diployable due to api restriction  
 if site is not wroking this means the api subscirption is expired  
- # run on local host 
 [click here to check website ]( https://dwivediom.github.io/Pegion-News-/)
 
+ ### run on local host 
+ check below how to run 
 
 
 ## Available Scripts
