@@ -1,6 +1,8 @@
 # Getting Started with this React App
-# sorry this site is not diployable due to api restriction 
-if site is not wroking this means the api subscirption is expired 
+
+sorry this site is not diployable due to api restriction  
+if site is not wroking this means the api subscirption is expired  
+ # run on local host 
 [click here to check website ]( https://dwivediom.github.io/Pegion-News-/)
 
 
