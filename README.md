@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with this React App
+# sorry this site is not diployable due to api ristictions 
+if site is not wroking this means the api subscirption is expired 
+[click here to check website ]( https://dwivediom.github.io/Pegion-News-/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
